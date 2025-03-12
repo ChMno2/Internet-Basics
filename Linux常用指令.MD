@@ -23,7 +23,7 @@
 - cd 切換目錄
 - cat 讀取文件內容
 - 複製file1.text並取名為file2.text
-[tab] cp file1.text file2.text 
+[tab][tab] cp file1.text file2.text 
 - 遞迴複製目錄
 [tab] cp –r folder1 folder_copy
 - 重新命名文件
