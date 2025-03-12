@@ -1,4 +1,3 @@
-# Linux：
 ## ls 列出文件
 -   –l顯示更詳細的信息
 -   -a 顯示隱藏文件的所有文件
@@ -8,7 +7,7 @@
 
 ## ln創建鏈接文件    
 -   -s加上等於軟鏈結文件
-  -   Ex:ls –s hello.txt link.txt
+-  -   Ex:ls –s hello.txt link.txt
 
 -   可將文件更改成不同的權限
 -  -   Ex : chmod +rx hello.txt 添加讀寫權限給hello.txt
