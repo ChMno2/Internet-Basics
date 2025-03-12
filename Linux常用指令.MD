@@ -7,7 +7,8 @@
 
 ## ln創建鏈接文件    
 <br/>  -s加上等於軟鏈結文件
-<br/> -  Ex:ls –s hello.txt link.txt
+<br/>
+-  Ex:ls –s hello.txt link.txt
 
 <br/>  可將文件更改成不同的權限
 <br/> -   Ex : chmod +rx hello.txt 添加讀寫權限給hello.txt
