@@ -4,9 +4,9 @@
 
 2. cd:切換到該槽的根目錄
 
-[tab]  cd..:退回到上一層
-[tab] d::直接移至D槽
-[tab] e::直接移到E槽(下e:即可,移到其他槽,以此類推)
+[Tab]  cd..:退回到上一層
+[Tab] d::直接移至D槽
+[Tab] e::直接移到E槽(下e:即可,移到其他槽,以此類推)
 
 3. cls:清除螢幕
 
@@ -42,7 +42,7 @@
 
 1. ping:用來檢測網絡的連通情況和分析網絡速度(最常用到)
 
-[tab] ping-t:不間斷的一直ping
+[Tab] ping-t:不間斷的一直ping
 
 2. nslookup:查詢域名對應的IP位址
 
@@ -52,15 +52,15 @@
 
 4. netstat:查看網路連線、路由表、連接埠狀態及相關統計資訊的工具,常常被用來檢測網路環境是否正常
 
-[tab] netstat -a:列出所有連接埠
+[Tab] netstat -a:列出所有連接埠
 
-[tab] netstat -at:只列TCP部分
+[Tab] netstat -at:只列TCP部分
 
-[tab] netstat -au:隻列UDP部分
+[Tab] netstat -au:隻列UDP部分
 
-[tab] netstat -b:列出port相對應的程式
+[Tab] netstat -b:列出port相對應的程式
 
-[tab] netstat -r:列出目前的路由表(Routing Table),有助於網路連線故障的判斷
+[Tab] netstat -r:列出目前的路由表(Routing Table),有助於網路連線故障的判斷
 
 5. ipconfig:查詢本機IP位址
 
